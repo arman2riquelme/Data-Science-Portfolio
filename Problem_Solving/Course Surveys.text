@@ -1,8 +1,0 @@
-Problem Description
-
-Blue, a workplace survey solution, is used to conduct semester faculty surveys, evaluating courses and instructors. While course and instructor data are automatically refreshed via an SQL connection with Cognos for data integrity, the surveys are selective: out of approximately 1,100 courses, only about 400 are evaluated each semester, with some courses having multiple instructors.
-
-Currently, Blue does not support importing a custom list to populate a project. While a temporary dataset could be a future solution, and API integration was explored, Blue’s API only supports querying project data, not importing data into one.
-
-This limitation requires courses to be manually added to the project, one by one, using either their CRN (Course Reference Number) or description, until the project is fully populated. Additionally, while the internal system assigns CRNs to all courses, Blue uses a different identifier for cross-listed courses, composed of the Course (5 alphanumeric characters) and Section (3 alphanumeric characters).
-
