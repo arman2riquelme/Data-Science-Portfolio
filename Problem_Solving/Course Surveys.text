@@ -1,4 +1,5 @@
 Problem Description
+
 Blue, a workplace survey solution, is used to conduct semester faculty surveys, evaluating courses and instructors. While course and instructor data are automatically refreshed via an SQL connection with Cognos for data integrity, the surveys are selective: out of approximately 1,100 courses, only about 400 are evaluated each semester, with some courses having multiple instructors.
 
 Currently, Blue does not support importing a custom list to populate a project. While a temporary dataset could be a future solution, and API integration was explored, Blue’s API only supports querying project data, not importing data into one.
