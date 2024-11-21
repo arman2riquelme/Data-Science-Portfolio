@@ -4,7 +4,7 @@ Welcome to my Data Science Portfolio! This repository showcases a variety of pro
 
 ## Repository Structure
 
-Below is an overview of the main sections in this portfolio. Click on any section to explore its projects and details:
+Below is an overview of the main sections in this portfolio. **Click on any section to explore its projects and details:**
 
 ---
 
