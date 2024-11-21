@@ -9,20 +9,20 @@ Feel free to navigate through the folders to explore the projects. Each section 
 
 ## Repository Structure
 
-### 1. **Big-Data-Management-Systems** [Big-Data-Management-Systems](./Big-Data-Management-Systems/)
+### 1. **[Big-Data-Management-Systems](./Big-Data-Management-Systems/)** 
    Projects and exercises related to distributed computing and large-scale data management, with a focus on Spark and SQL.
 
-### 2. **Foundations** [Foundations](./Foundations/)
+### 2. **[Foundations](./Foundations/)**
    Foundational projects that cover data cleaning, wrangling, and basic exploratory data analysis.
 
-### 3. **Machine-Learning** [Machine-Learning](./Machine-Learning/)
+### 3. **[Machine-Learning](./Machine-Learning/)** 
    Machine learning projects, including both supervised and unsupervised learning techniques, such as clustering, classification, and dimensionality reduction.
 
-### 4. **Problem-Solving** [Problem-Solving](./Problem-Solving/)
+### 4. **[Problem-Solving](./Problem-Solving/)** 
    Real-world challenges solved using tools like Python and Power Query. This section focuses on creative and practical solutions to specific data problems.
 
-### 5. **Statistics** [Statistics](./Statistics/)
-   Statistical analyses and visualizations, with an emphasis on understanding and communicating insights effectively.
+### 5. **[Statistics](./Statistics/)** 
+Statistical analyses and visualizations, with an emphasis on understanding and communicating insights effectively.
 
 ---
 
