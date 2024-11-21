@@ -24,10 +24,13 @@ Welcome to my Data Science Portfolio! This repository showcases a variety of pro
 ---
 
 ## Highlights
+
 - **Real-World Applications:** Practical projects that showcase my ability to apply data science to real-world scenarios.
 - **Broad Skill Set:** Covers big data, machine learning, visualization, and statistical analysis.
 - **Clear Documentation:** Each project is accompanied by explanations of the problem, methods used, and results obtained.
 - **Iterative Development:** Many projects include iterative problem-solving to demonstrate how solutions evolved over time.
+- **Problem-Solving First, Tools Second:** The **Problem-Solving** section emphasizes that the resolution of challenges starts with critical thinking and strategy, even before leveraging sophisticated tools. This highlights my ability to adapt and find solutions under constraints.
+
 
 ---
 
