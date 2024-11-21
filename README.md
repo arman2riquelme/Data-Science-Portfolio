@@ -2,6 +2,9 @@
 
 Welcome to my Data Science Portfolio! This repository showcases a variety of projects and exercises from my journey in data analysis and data science. Inside, you'll find work spanning exploratory data analysis (EDA), machine learning, data visualization, and more. My focus is on solving real-world problems using data-driven approaches.
 
+## How to Explore
+Feel free to navigate through the folders to explore the projects. Each section provides insights into specific areas of expertise, and projects are documented to ensure clarity and reproducibility.
+
 ---
 
 ## Repository Structure
@@ -31,11 +34,6 @@ Welcome to my Data Science Portfolio! This repository showcases a variety of pro
 - **Iterative Development:** Many projects include iterative problem-solving to demonstrate how solutions evolved over time.
 - **Problem-Solving First, Tools Second:** The **Problem-Solving** section emphasizes that the resolution of challenges starts with critical thinking and strategy, even before leveraging sophisticated tools. This highlights my ability to adapt and find solutions under constraints.
 
-
----
-
-## How to Explore
-Feel free to navigate through the folders to explore the projects. Each section provides insights into specific areas of expertise, and projects are documented to ensure clarity and reproducibility.
 
 ---
 
