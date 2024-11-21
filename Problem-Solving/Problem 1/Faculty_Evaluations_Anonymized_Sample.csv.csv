@@ -1,372 +1,107 @@
-Course,Section,CRN,Course Title,Cross-list,Instructor name,Instructor last name,Enrolled Seats,First Name,Last Name
-CS 050,A18,11256,Introduction to Literature,,,,26,Jordan,Thomas
-DI 103,B02,11368,Environmental Studies,B4,,,26,Alex,Johnson
-DI 103,R37,11369,Critical Philosophy,B4,,,2,Jordan,Taylor
-HR 514,B01,11639,Renewable Energy,,,,38,Jordan,Moore
-LH 102,B01,11725,Organic Chemistry,0P,,,24,Riley,Anderson
-IM 310,B01,11700,Health Science,,,,18,Jordan,Smith
-GE 220,A01,11588,Data Analytics,,,,40,Taylor,Davis
-IG 107,B01,11683,Cultural Sociology,,,,16,Jordan,Anderson
-LH 103,B01,11727,Modern Physics,0Q,,,24,Casey,Thomas
-LH 103,R37,11728,Modern Physics,0Q,,,2,Jamie,Jackson
-DI 304,B01,11378,Global History,,,,34,Reese,Taylor
-DI 202,B01,11373,Health Science,,,,21,Jordan,Jackson
-MK 420,B01,11811,World Geography,13,,,43,Riley,Wilson
-MK 114,B03,11797,Global History,,,,41,Jamie,Wilson
-CS 106,A01,11288,Programming Basics,,,,20,Jordan,Brown
-CS 106,A02,11289,World Geography,,,,17,Morgan,Davis
-LH 201,B01,11733,Introduction to Literature,,,,22,Jordan,Jackson
-HR 523,B01,11648,Renewable Energy,,,,38,Peyton,Davis
-CU 130,B01,11311,Introduction to Literature,,,,14,Quinn,Anderson
-CU 130,B02,11312,Renewable Energy,,,,18,Riley,Wilson
-FP 370,B01,11534,Digital Marketing,AW,,,18,Riley,Smith
-FP 370,B02,11535,Cultural Sociology,AW,,,12,Jordan,Brown
-CS 050,A01,11239,Foundations of Biology,,,,22,Jordan,Johnson
-PY 063,Y01,12012,Art History,,,,43,Casey,Johnson
-PY 199,Y01,12023,Introduction to Literature,,,,44,Taylor,Taylor
-HR 517,B01,11640,Organic Chemistry,,,,37,Riley,Smith
-AC 509,B01,11035,Renewable Energy,B3,,,12,Taylor,Davis
-HR 522,B01,11647,Critical Philosophy,,,,37,Peyton,Davis
-FP 165,B01,11520,Art History,,,,19,Morgan,Johnson
-FP 165,B02,11521,Digital Marketing,,,,21,Alex,Johnson
-CU 140,B02,11314,Microeconomics,AE,,,16,Peyton,Wilson
-DI 303,B01,11377,Advanced Mathematics,,,,34,Quinn,Taylor
-DI 201,B01,11371,Digital Marketing,,,,21,Quinn,Wilson
-CS 050,A02,11240,Introduction to Literature,,,,19,Riley,Johnson
-PY 299,Y01,12030,Organic Chemistry,,,,43,Peyton,Thomas
-PY 199,A04,12020,Microeconomics,,,,28,Casey,Moore
-CS 217,A01,11298,Modern Physics,,,,13,Morgan,Moore
-CS 030,A07,11234,Programming Basics,,,,13,Taylor,Thomas
-CS 050,A03,11241,World Geography,,,,28,Morgan,Taylor
-CS 050,A07,11245,Global History,,,,27,Jordan,Anderson
-CS 050,A08,11246,Cybersecurity Fundamentals,,,,27,Peyton,Johnson
-GB 323,B01,11556,World Geography,B5,,,21,Riley,Wilson
-IG 101,B01,11678,Critical Philosophy,,,,15,Casey,Jackson
-DI 301,B01,11375,Critical Philosophy,,,,34,Alex,Wilson
-LH 202,B01,11734,Introduction to Literature,,,,22,Jamie,Moore
-HR 513,B01,11638,Foundations of Biology,,,,37,Jamie,Taylor
-SY 130,A01,12114,Health Science,,,,24,Jordan,Brown
-SY 125,A04,12108,World Geography,,,,17,Taylor,Johnson
-EN 400,B01,11503,Statistics and Probability,,,,21,Peyton,Brown
-HR 501,B01,11628,Art History,0I,,,6,Quinn,Brown
-HR 501,R37,11629,Health Science,0I,,,1,Peyton,Anderson
-HR 511,B01,11635,Foundations of Biology,,,,33,Jamie,Jackson
-HI 100,B01,11604,Statistics and Probability,0B,,,27,Morgan,Taylor
-HI 100,R37,11605,Art History,0B,,,26,Jamie,Wilson
-HI 200,B01,11610,Statistics and Probability,,,,29,Taylor,Smith
-HI 205,B01,11615,Modern Physics,,,,29,Taylor,Taylor
-SY 066,A05,12099,Modern Physics,,,,16,Quinn,Davis
-SY 066,A06,12100,Artificial Intelligence,,,,18,Taylor,Moore
-CS 050,A24,11262,Cybersecurity Fundamentals,,,,27,Jamie,Brown
-CS 220,A01,11303,Artificial Intelligence,,,,29,Morgan,Moore
-CS 050,A16,11254,Modern Physics,,,,28,Alex,Thomas
-CS 050,A09,11247,Health Science,,,,29,Quinn,Smith
-LH 105,B01,11731,Health Science,0S,,,24,Jordan,Brown
-LH 105,R37,11732,Microeconomics,0S,,,2,Reese,Jackson
-SY 125,R38,12110,World Geography,,,,37,Taylor,Moore
-SY 125,Y01,12111,Microeconomics,,,,45,Taylor,Davis
-HI 202,B01,11612,Cognitive Psychology,,,,29,Peyton,Davis
-IG 206,B01,11688,Digital Marketing,,,,23,Riley,Brown
-CS 050,Y03,11280,World Geography,,,,28,Peyton,Moore
-CS 050,A04,11242,Global History,,,,26,Riley,Brown
-CS 106,A05,11292,Cognitive Psychology,,,,6,Casey,Johnson
-LH 206,B01,11736,Health Science,,,,23,Riley,Moore
-AC 111,B02,11022,Cognitive Psychology,,,,39,Riley,Moore
-AC 345,B01,11032,Global History,,,,29,Jamie,Moore
-AC 535,B01,11039,Art History,4,,,11,Morgan,Anderson
-FP 163,B01,11516,Environmental Studies,,,,20,Casey,Jackson
-FP 163,B02,11517,Renewable Energy,,,,22,Jamie,Davis
-FP 363,B01,11528,Modern Physics,,,,18,Jamie,Smith
-FP 363,B02,11529,Microeconomics,,,,12,Riley,Thomas
-EC 402,B01,11412,Creative Writing,,,,36,Jordan,Moore
-EC 402,B03,11414,Environmental Studies,,,,37,Peyton,Thomas
-GB 110,B01,11545,Cultural Sociology,,,,40,Jordan,Johnson
-HR 519,B01,11641,Art History,,,,37,Peyton,Wilson
-IM 115,B01,11697,Health Science,,,,22,Jamie,Thomas
-IM 318,B01,11706,Digital Marketing,,,,17,Reese,Brown
-IM 518,B01,11710,Global History,,,,15,Alex,Davis
-GB 501,B04,11570,Introduction to Literature,B7,,,12,Taylor,Davis
-PY 114,A01,12013,Cybersecurity Fundamentals,,,,38,Casey,Jackson
-CS 050,Y07,11284,Cognitive Psychology,,,,0,Taylor,Wilson
-CS 050,Y01,11278,Cybersecurity Fundamentals,,,,30,Taylor,Smith
-CS 050,Y05,11282,Introduction to Literature,,,,27,Casey,Smith
-GE 103,A01,11581,Cybersecurity Fundamentals,,,,34,Alex,Johnson
-LH 203,B01,11735,Cultural Sociology,,,,22,Peyton,Thomas
-CS 050,A11,11249,Art History,,,,29,Jordan,Davis
-CS 219,A04,11302,Global History,,,,32,Casey,Davis
-CS 050,A22,11260,Microeconomics,,,,27,Riley,Smith
-MK 114,B02,11796,Health Science,17,,,40,Morgan,Wilson
-GE 182,A01,11584,Artificial Intelligence,,,,38,Morgan,Moore
-SY 126,A01,12113,Environmental Studies,,,,35,Jamie,Brown
-GB 317,B01,11552,Statistics and Probability,,,,16,Taylor,Anderson
-GB 501,B01,11567,Renewable Energy,,,,18,Reese,Moore
-IG 202,B01,11685,Health Science,,,,20,Alex,Moore
-DH 507,H01,11362,Health Science,,,,24,Riley,Jackson
-LH 207,B01,11737,Digital Marketing,,,,22,Jamie,Jackson
-HI 102,B01,11608,Creative Writing,0D,,,27,Reese,Moore
-HI 102,R37,11609,Creative Writing,0D,,,4,Jamie,Johnson
-HU 272,A01,11666,Art History,,,,35,Riley,Davis
-HI 204,B01,11614,Microeconomics,,,,29,Taylor,Smith
-HR 131,B02,11617,Cybersecurity Fundamentals,,,,37,Casey,Taylor
-IG 209,B01,11690,Cultural Sociology,,,,23,Reese,Anderson
-MA 134,B01,11766,Cultural Sociology,,,,38,Morgan,Brown
-MA 134,B02,11767,Microeconomics,,,,36,Casey,Jackson
-MA 134,B03,11768,Advanced Mathematics,,,,38,Alex,Brown
-GB 440,B01,11563,World Geography,,,,32,Morgan,Johnson
-HI 201,B01,11611,Art History,,,,29,Jordan,Wilson
-AS 115,100,11096,Foundations of Biology,AA,,,5,Reese,Wilson
-AS 115,A01,11098,Critical Philosophy,AA,,,17,Reese,Moore
-AS 115,A02,11099,Advanced Mathematics,,,,17,Casey,Wilson
-AS 115,A03,11100,Global History,,,,33,Reese,Wilson
-GE 181,R37,11583,Artificial Intelligence,,,,21,Quinn,Smith
-PY 299,A01,12025,Art History,,,,44,Casey,Jackson
-CU 120,B01,11307,Health Science,,,,15,Reese,Thomas
-CU 120,B02,11308,World Geography,,,,18,Alex,Anderson
-CU 345,B01,11327,World Geography,AJ,,,12,Casey,Smith
-CU 345,B02,11328,Statistics and Probability,AJ,,,14,Jamie,Anderson
-SY 066,A04,12098,Microeconomics,,,,38,Morgan,Brown
-SY 180,A01,12115,Cultural Sociology,,,,29,Taylor,Wilson
-SY 125,A01,12105,Health Science,,,,33,Quinn,Smith
-CS 050,A15,11253,Environmental Studies,,,,27,Quinn,Jackson
-CS 050,A19,11257,Creative Writing,,,,28,Jordan,Anderson
-CS 050,A20,11258,Organic Chemistry,,,,26,Jamie,Thomas
-AS 220,A02,11102,Cybersecurity Fundamentals,,,,39,Jordan,Smith
-AS 220,A03,11103,Cultural Sociology,,,,38,Reese,Smith
-AS 220,A04,11104,Introduction to Literature,,,,20,Taylor,Wilson
-CS 221,A01,11304,Foundations of Biology,,,,20,Riley,Thomas
-CS 221,A02,11305,Cognitive Psychology,,,,21,Morgan,Johnson
-MK 262,B03,11802,Statistics and Probability,,,,39,Jordan,Anderson
-IM 116,B01,11698,Statistics and Probability,,,,12,Alex,Johnson
-IM 116,B02,11699,Artificial Intelligence,,,,8,Taylor,Johnson
-IM 316,B01,11704,Organic Chemistry,,,,8,Taylor,Brown
-IM 316,B02,11705,World Geography,,,,9,Riley,Moore
-DI 102,B01,11365,Art History,,,,14,Reese,Jackson
-IG 105,B01,11679,Foundations of Biology,,,,16,Taylor,Davis
-HI 203,B01,11613,Art History,,,,29,Quinn,Thomas
-GE 080,100,11577,Renewable Energy,,,,13,Peyton,Moore
-GE 080,B02,11579,Artificial Intelligence,,,,11,Casey,Smith
-AC 111,B01,11021,Foundations of Biology,,,,39,Morgan,Anderson
-LH 104,B01,11729,Modern Physics,0R,,,24,Jamie,Thomas
-LH 104,R37,11730,Health Science,0R,,,2,Quinn,Jackson
-IM 113,B01,11694,World Geography,,,,21,Alex,Smith
-IM 313,B01,11702,Data Analytics,,,,17,Alex,Anderson
-FP 164,B01,11518,Cybersecurity Fundamentals,,,,20,Reese,Moore
-FP 164,B02,11519,Digital Marketing,,,,22,Casey,Taylor
-GB 501,B02,11568,Renewable Energy,,,,38,Quinn,Taylor
-AS 220,Y02,11106,Artificial Intelligence,,,,44,Taylor,Taylor
-DI 200,B01,11370,Introduction to Literature,,,,21,Riley,Wilson
-DI 300,B01,11374,Data Analytics,,,,34,Morgan,Smith
-DI 400,B01,11379,Art History,,,,38,Quinn,Johnson
-DI 401,B01,11380,Cognitive Psychology,,,,38,Reese,Jackson
-MK 337,B01,11809,Critical Philosophy,12,,,42,Riley,Wilson
-IM 312,B01,11701,Organic Chemistry,,,,16,Reese,Thomas
-IG 204,B01,11686,Organic Chemistry,,,,23,Riley,Smith
-CS 106,A04,11291,Global History,,,,14,Taylor,Anderson
-FP 162,B01,11514,Cognitive Psychology,,,,20,Quinn,Johnson
-FP 362,B01,11526,Programming Basics,,,,18,Peyton,Moore
-DI 302,B01,11376,Introduction to Literature,,,,34,Jordan,Thomas
-SY 125,Y02,12112,Digital Marketing,,,,31,Peyton,Smith
-IG 208,B01,11689,Health Science,,,,23,Alex,Johnson
-IM 314,B01,11703,Digital Marketing,,,,17,Riley,Taylor
-GB 330,B03,11561,Advanced Mathematics,,,,37,Morgan,Taylor
-AC 111,B03,11023,Cybersecurity Fundamentals,,,,40,Jamie,Anderson
-AC 331,B01,11026,Introduction to Literature,,,,28,Jamie,Davis
-AC 533,B01,11037,World Geography,3,,,11,Casey,Davis
-AC 533,R37,11038,Cognitive Psychology,3,,,1,Peyton,Wilson
-CS 050,A21,11259,Cybersecurity Fundamentals,,,,24,Casey,Wilson
-CU 325,B01,11319,Modern Physics,AT,,,13,Peyton,Smith
-CU 325,B02,11320,Microeconomics,AT,,,12,Riley,Anderson
-DI 103,B01,11367,Statistics and Probability,,,,14,Alex,Davis
-CS 050,A23,11261,Artificial Intelligence,,,,11,Peyton,Johnson
-CS 050,A26,11264,Data Analytics,,,,29,Riley,Moore
-CU 145,B01,11315,Cognitive Psychology,AF,,,12,Alex,Davis
-FP 367,B01,11532,Renewable Energy,AU,,,18,Jordan,Moore
-FP 367,B02,11533,Digital Marketing,AU,,,11,Taylor,Moore
-FP 161,B01,11512,Artificial Intelligence,AM,,,20,Taylor,Smith
-FP 161,B02,11513,Global History,AM,,,22,Jordan,Smith
-FP 361,B01,11524,Modern Physics,AO,,,18,Reese,Smith
-FP 361,B02,11525,Data Analytics,AO,,,11,Alex,Davis
-SY 125,A03,12107,Organic Chemistry,,,,54,Casey,Johnson
-GE 099,A01,11580,Cognitive Psychology,,,,38,Jamie,Smith
-GY 199,A01,11589,Health Science,,,,40,Quinn,Anderson
-PF113,H01,11899,Critical Philosophy,,,,31,Morgan,Moore
-PF335,H01,11911,Environmental Studies,,,,25,Casey,Davis
-BN300,H01,11117,Microeconomics,IE,,,17,Riley,Wilson
-BN300,H02,11118,Digital Marketing,IE,,,18,Reese,Anderson
-ML111,H01,11813,World Geography,IG,,,19,Riley,Thomas
-ML111,H02,12912,Cognitive Psychology,IG,,,13,Morgan,Thomas
-ML115,H01,11817,Artificial Intelligence,IB,,,18,Alex,Smith
-ML115,H01,11817,Statistics and Probability,IB,,,18,Casey,Anderson
-ML115,H02,11818,Cybersecurity Fundamentals,IB,,,14,Casey,Brown
-ML115,H02,11818,Statistics and Probability,IB,,,14,Alex,Thomas
-DE131,H01,11343,Artificial Intelligence,,,,30,Alex,Jackson
-DH335,H01,11357,World Geography,,,,17,Morgan,Brown
-NC240,R37,11873,Data Analytics,,,,13,Reese,Thomas
-NC402,R37,11879,Microeconomics,,,,10,Taylor,Moore
-SS117,R37,12080,Foundations of Biology,,,,50,Peyton,Johnson
-DE132,H01,11344,Critical Philosophy,,,,30,Quinn,Davis
-AB118,H01,11005,Digital Marketing,,,,33,Jordan,Smith
-AB327,H01,11017,Renewable Energy,,,,21,Casey,Brown
-ED117,R37,11419,Programming Basics,,,,21,Jordan,Davis
-ED117,R37,11419,Global History,,,,21,Taylor,Smith
-ED117,R37,11419,Organic Chemistry,,,,21,Jamie,Brown
-ED337,R37,11427,Health Science,,,,14,Taylor,Davis
-ED337,R37,11427,Data Analytics,,,,14,Taylor,Thomas
-ED337,R37,11427,Digital Marketing,,,,14,Casey,Taylor
-N3035,H01,11858,Health Science,,,,0,Riley,Thomas
-SS115,R37,12073,Programming Basics,,,,48,Morgan,Thomas
-SS119,R37,12084,Foundations of Biology,,,,44,Alex,Thomas
-SS338,R37,12088,Introduction to Literature,,,,43,Riley,Smith
-PF321,H01,11905,Foundations of Biology,,,,24,Peyton,Brown
-RA319,H01,12047,Microeconomics,,,,14,Jordan,Jackson
-ED337,H02,11426,Modern Physics,,,,24,Reese,Taylor
-ED337,H02,11426,Microeconomics,,,,24,Riley,Smith
-ED337,H02,11426,Digital Marketing,,,,24,Peyton,Moore
-AB432,H01,11020,Renewable Energy,,,,20,Riley,Moore
-DE120,H01,11341,Organic Chemistry,,,,30,Quinn,Moore
-DH110,H01,11349,Data Analytics,,,,27,Reese,Davis
-BN120,H01,11116,Introduction to Literature,,,,42,Peyton,Johnson
-BN315,H01,11122,Critical Philosophy,,,,45,Alex,Thomas
-PN326,H01,11958,Environmental Studies,,,,77,Peyton,Moore
-PN326,H01,11958,Cultural Sociology,,,,77,Reese,Smith
-PW200,H01,12001,Cognitive Psychology,,,,35,Jordan,Johnson
-PW208,H01,12003,Renewable Energy,,,,36,Casey,Davis
-BN105,H03,11113,Cybersecurity Fundamentals,IC,,,11,Jordan,Wilson
-BN300,H03,11119,Cybersecurity Fundamentals,IE,,,10,Casey,Johnson
-PN322,R37,11952,Data Analytics,,,,46,Jordan,Brown
-PN328,R37,11972,Microeconomics,,,,49,Taylor,Taylor
-PN128,H02,11940,Health Science,,,,66,Jordan,Davis
-ED330,H01,11423,Introduction to Literature,,,,45,Alex,Jackson
-XX007,H05,12195,Artificial Intelligence,,,,14,Jordan,Moore
-PF112,H01,11897,Art History,,,,31,Jordan,Johnson
-PF320,H01,11904,Health Science,,,,24,Jordan,Jackson
-PN329,R37,11974,Data Analytics,,,,44,Alex,Anderson
-DE132,H01,11344,Cognitive Psychology,,,,30,Peyton,Moore
-ED117,H02,11418,Microeconomics,,,,23,Quinn,Jackson
-ED117,H02,11418,Artificial Intelligence,,,,23,Riley,Jackson
-ED117,H02,11418,Creative Writing,,,,23,Reese,Thomas
-ML112,H01,11814,Microeconomics,,,,31,Alex,Moore
-PW110,H01,11991,Artificial Intelligence,,,,68,Alex,Taylor
-PW120,H01,11994,Statistics and Probability,,,,67,Casey,Wilson
-PT142,H01,11982,Art History,,,,23,Jamie,Taylor
-PT143,H01,11983,Cognitive Psychology,,,,13,Reese,Thomas
-PT143,H01,11983,Cognitive Psychology,,,,13,Jamie,Taylor
-PT143,H02,12942,Global History,,,,10,Taylor,Jackson
-PT143,H01,11983,Advanced Mathematics,,,,13,Reese,Davis
-PT143,H01,11983,Introduction to Literature,,,,13,Jordan,Moore
-PT143,H02,12942,Cognitive Psychology,,,,10,Jordan,Thomas
-PN131,H02,11947,Health Science,I7,,,22,Quinn,Taylor
-PW100,H01,11985,Global History,I9,,,16,Casey,Smith
-PW100,H02,11986,Advanced Mathematics,I9,,,15,Morgan,Moore
-PW100,H03,11987,Environmental Studies,I9,,,16,Riley,Davis
-PW100,H04,11988,Foundations of Biology,I9,,,18,Reese,Brown
-SS117,H01,12079,Introduction to Literature,,,,65,Alex,Taylor
-SS350,H01,12091,Digital Marketing,,,,45,Casey,Smith
-SS350,H01,12091,Creative Writing,,,,45,Morgan,Thomas
-SS350,H01,12091,Cognitive Psychology,,,,45,Taylor,Jackson
-SS350,H01,12091,Cybersecurity Fundamentals,,,,45,Peyton,Anderson
-ML116,H01,11819,Artificial Intelligence,,,,34,Jamie,Smith
-DH507,H01,11362,Environmental Studies,,,,24,Taylor,Wilson
-ML114,H01,11816,Data Analytics,,,,34,Reese,Taylor
-AB115,H01,11003,Microeconomics,,,,20,Quinn,Johnson
-AB115,H01,11003,Art History,,,,20,Jordan,Thomas
-AB115,H02,11004,Modern Physics,,,,15,Peyton,Moore
-AB115,H02,11004,Artificial Intelligence,,,,15,Alex,Johnson
-AB318,H01,11009,Programming Basics,,,,9,Peyton,Wilson
-AB318,H02,11010,Programming Basics,,,,12,Morgan,Wilson
-PN330,R37,11976,Microeconomics,,,,48,Jamie,Moore
-CI360,H01,11182,Modern Physics,,,,14,Casey,Brown
-RT159,H01,12054,Programming Basics,,,,46,Reese,Jackson
-AB432,H01,11020,Health Science,,,,20,Jordan,Brown
-CI108,H01,11174,Creative Writing,,,,21,Reese,Wilson
-RT160,H01,12056,Critical Philosophy,HC,,,46,Jamie,Davis
-PT141,H01,11981,World Geography,,,,23,Jamie,Thomas
-SS118,R37,12082,Cognitive Psychology,,,,50,Quinn,Smith
-AB321,H01,11011,Advanced Mathematics,,,,21,Riley,Davis
-AB322,H01,11012,Critical Philosophy,I3,,,11,Quinn,Davis
-AB322,H02,11013,Art History,I3,,,10,Riley,Davis
-PW100,R37,11990,Organic Chemistry,,,,12,Morgan,Wilson
-PW100,R37,11990,World Geography,,,,12,Morgan,Johnson
-PN131,H03,11948,Advanced Mathematics,I7,,,16,Quinn,Wilson
-PN131,H04,11949,Critical Philosophy,I7,,,20,Peyton,Jackson
-PN327,H04,11969,Renewable Energy,I8,,,16,Peyton,Johnson
-PW100,H01,11985,Introduction to Literature,I9,,,16,Alex,Moore
-PW100,H02,11986,Foundations of Biology,I9,,,15,Alex,Johnson
-PW100,H03,11987,Microeconomics,I9,,,16,Taylor,Moore
-PW100,H04,11988,Environmental Studies,I9,,,18,Jordan,Wilson
-PW233,H01,12007,Modern Physics,,,,38,Casey,Moore
-BN105,H01,11111,Environmental Studies,IC,,,16,Riley,Moore
-BN105,H02,11112,Cognitive Psychology,IC,,,15,Riley,Smith
-CP355,R37,11213,Health Science,UB,,,5,Jamie,Moore
-SS116,H04,12077,Statistics and Probability,,,,15,Taylor,Johnson
-ML115,H01,11817,Digital Marketing,IB,,,18,Riley,Anderson
-ML115,H01,11817,Cybersecurity Fundamentals,IB,,,18,Jamie,Wilson
-ML115,H02,11818,Data Analytics,IB,,,14,Reese,Taylor
-ML115,H02,11818,Environmental Studies,IB,,,14,Jamie,Johnson
-RT156,H01,12051,Health Science,,,,49,Riley,Johnson
-RT336,H01,12057,Digital Marketing,,,,42,Morgan,Moore
-SS118,H01,12081,Health Science,,,,60,Quinn,Wilson
-PW110,R37,11993,Cultural Sociology,,,,13,Peyton,Smith
-DH111,H01,11350,World Geography,,,,27,Jordan,Wilson
-PF111,H01,11895,Advanced Mathematics,,,,31,Riley,Moore
-PF323,H01,11907,Data Analytics,,,,23,Morgan,Smith
-CI161,H01,11176,Introduction to Literature,,,,21,Casey,Moore
-CI161,H01,11176,World Geography,,,,21,Casey,Smith
-CI170,H01,11180,Health Science,,,,21,Reese,Smith
-CI170,H01,11180,Organic Chemistry,,,,21,Riley,Moore
-PW130,H03,11998,Introduction to Literature,,,,29,Peyton,Taylor
-SN100,H01,12064,Microeconomics,ID,,,18,Casey,Davis
-SN100,H01,12064,Organic Chemistry,ID,,,18,Quinn,Thomas
-SN100,H02,12065,Microeconomics,ID,,,23,Riley,Johnson
-SN100,H02,12065,Art History,ID,,,23,Jamie,Taylor
-AB329,H01,11018,Cultural Sociology,I6,,,13,Reese,Anderson
-AB329,H02,11019,Organic Chemistry,I6,,,8,Quinn,Davis
-ED142,H02,11421,Environmental Studies,,,,21,Casey,Moore
-ED117,R37,11419,Renewable Energy,,,,21,Jamie,Johnson
-ED117,R37,11419,Organic Chemistry,,,,21,Morgan,Taylor
-ED117,R37,11419,World Geography,,,,21,Morgan,Anderson
-LS126,H01,11739,Cybersecurity Fundamentals,,,,31,Casey,Davis
-PN128,R37,11943,Organic Chemistry,,,,13,Peyton,Davis
-PW120,R37,11996,Foundations of Biology,,,,13,Alex,Wilson
-CI361,H01,11184,Environmental Studies,,,,14,Taylor,Taylor
-PW220,H01,12005,Environmental Studies,,,,37,Riley,Jackson
-PW130,R37,12000,Advanced Mathematics,,,,12,Peyton,Wilson
-PH145,H05,11918,Cognitive Psychology,18,,,24,Morgan,Brown
-ML111,H01,11813,Programming Basics,IG,,,19,Quinn,Anderson
-ML111,H02,12912,Critical Philosophy,IG,,,13,Morgan,Brown
-ML113,H01,11815,Statistics and Probability,,,,31,Quinn,Jackson
-RA317,H01,12046,Advanced Mathematics,,,,14,Morgan,Johnson
-BN300,H01,11117,Digital Marketing,IE,,,17,Riley,Taylor
-BN300,H02,11118,Programming Basics,IE,,,18,Alex,Smith
-RA315,H01,12045,Artificial Intelligence,,,,14,Taylor,Thomas
-RA319,H01,12047,Health Science,,,,14,Peyton,Davis
-CA104,H01,11130,Modern Physics,2D,,,31,Morgan,Taylor
-CA104,R37,11132,Data Analytics,2D,,,1,Alex,Davis
-PF324,H01,11908,Introduction to Literature,,,,25,Riley,Anderson
-AB321,H01,11011,Modern Physics,,,,21,Reese,Davis
-AB322,H01,11012,World Geography,I3,,,11,Peyton,Anderson
-AB322,H02,11013,Environmental Studies,I3,,,10,Reese,Brown
-ML111,H01,11813,Cognitive Psychology,IG,,,19,Jamie,Jackson
-ML111,H02,12912,Cultural Sociology,IG,,,13,Reese,Thomas
-BN105,H03,11113,Digital Marketing,IC,,,11,Reese,Wilson
-BN105,H03,11113,Advanced Mathematics,IC,,,11,Reese,Wilson
-BN300,H03,11119,Art History,IE,,,10,Quinn,Taylor
-AB122,H01,11007,Statistics and Probability,I1,,,15,Casey,Anderson
-AB122,H02,11008,Organic Chemistry,I1,,,20,Quinn,Moore
-PH153,R37,11934,Digital Marketing,,,,16,Taylor,Taylor
-PH153,R37,11934,Artificial Intelligence,,,,16,Jamie,Thomas
-PN327,H03,11968,Creative Writing,I8,,,20,Alex,Thomas
-PN327,H04,11969,Art History,I8,,,16,Jordan,Thomas
-PN131,H03,11948,Microeconomics,I7,,,16,Morgan,Smith
-PN131,H04,11949,Modern Physics,I7,,,20,Taylor,Taylor
-PW100,H01,11985,Artificial Intelligence,I9,,,16,Taylor,Davis
-PW100,H02,11986,Digital Marketing,I9,,,15,Taylor,Thomas
-PW100,H03,11987,Introduction to Literature,I9,,,16,Alex,Wilson
-RA117,H01,12039,Critical Philosophy,IA,,,10,Taylor,Moore
-RA117,H02,12040,Foundations of Biology,IA,,,10,Reese,Moore
-RA119,H01,12041,Programming Basics,,,,20,Peyton,Thomas
-RA313,H01,12043,Artificial Intelligence,,,,14,Quinn,Jackson
-DH321,H01,11354,Foundations of Biology,,,,17,Jamie,Davis
-PN327,H02,11967,World Geography,I8,,,21,Casey,Anderson
-SN305,H01,12068,Renewable Energy,IF,,,24,Reese,Jackson
-SN305,H02,12833,Programming Basics,IF,,,25,Casey,Brown
+Course,Section,CRN,Course Title,XList,Enrolled Seats,First Name,Last Name,Temporary ID
+DI  103,B02,11368,Environmental Studies,B4,26,Alex,Johnson,DI  103 B02 B4 Alex Johnson
+DI  103,R37,11369,Critical Philosophy,B4,2,Jordan,Taylor,DI  103 R37 B4 Jordan Taylor
+LH  102,B01,11725,Organic Chemistry,0P,24,Riley,Anderson,LH  102 B01 0P Riley Anderson
+LH  103,B01,11727,Modern Physics,0Q,24,Casey,Thomas,LH  103 B01 0Q Casey Thomas
+LH  103,R37,11728,Modern Physics,0Q,2,Jamie,Jackson,LH  103 R37 0Q Jamie Jackson
+MK  420,B01,11811,World Geography,13,43,Riley,Wilson,MK  420 B01 13 Riley Wilson
+FP  370,B01,11534,Digital Marketing,AW,18,Riley,Smith,FP  370 B01 AW Riley Smith
+FP  370,B02,11535,Cultural Sociology,AW,12,Jordan,Brown,FP  370 B02 AW Jordan Brown
+AC  509,B01,11035,Renewable Energy,B3,12,Taylor,Davis,AC  509 B01 B3 Taylor Davis
+CU  140,B02,11314,Microeconomics,AE,16,Peyton,Wilson,CU  140 B02 AE Peyton Wilson
+GB  323,B01,11556,World Geography,B5,21,Riley,Wilson,GB  323 B01 B5 Riley Wilson
+HR  501,B01,11628,Art History,0I,6,Quinn,Brown,HR  501 B01 0I Quinn Brown
+HR  501,R37,11629,Health Science,0I,1,Peyton,Anderson,HR  501 R37 0I Peyton Anderson
+HI  100,B01,11604,Statistics and Probability,0B,27,Morgan,Taylor,HI  100 B01 0B Morgan Taylor
+HI  100,R37,11605,Art History,0B,26,Jamie,Wilson,HI  100 R37 0B Jamie Wilson
+LH  105,B01,11731,Health Science,0S,24,Jordan,Brown,LH  105 B01 0S Jordan Brown
+LH  105,R37,11732,Microeconomics,0S,2,Reese,Jackson,LH  105 R37 0S Reese Jackson
+AC  535,B01,11039,Art History,04,11,Morgan,Anderson,AC  535 B01 04 Morgan Anderson
+GB  501,B04,11570,Introduction to Literature,B7,12,Taylor,Davis,GB  501 B04 B7 Taylor Davis
+MK  114,B02,11796,Health Science,17,40,Morgan,Wilson,MK  114 B02 17 Morgan Wilson
+HI  102,B01,11608,Creative Writing,0D,27,Reese,Moore,HI  102 B01 0D Reese Moore
+HI  102,R37,11609,Creative Writing,0D,4,Jamie,Johnson,HI  102 R37 0D Jamie Johnson
+AS  115,100,11096,Foundations of Biology,AA,5,Reese,Wilson,AS  115 100 AA Reese Wilson
+AS  115,A01,11098,Critical Philosophy,AA,17,Reese,Moore,AS  115 A01 AA Reese Moore
+CU  345,B01,11327,World Geography,AJ,12,Casey,Smith,CU  345 B01 AJ Casey Smith
+CU  345,B02,11328,Statistics and Probability,AJ,14,Jamie,Anderson,CU  345 B02 AJ Jamie Anderson
+LH  104,B01,11729,Modern Physics,0R,24,Jamie,Thomas,LH  104 B01 0R Jamie Thomas
+LH  104,R37,11730,Health Science,0R,2,Quinn,Jackson,LH  104 R37 0R Quinn Jackson
+MK  337,B01,11809,Critical Philosophy,12,42,Riley,Wilson,MK  337 B01 12 Riley Wilson
+AC  533,B01,11037,World Geography,03,11,Casey,Davis,AC  533 B01 03 Casey Davis
+AC  533,R37,11038,Cognitive Psychology,03,1,Peyton,Wilson,AC  533 R37 03 Peyton Wilson
+CU  325,B01,11319,Modern Physics,AT,13,Peyton,Smith,CU  325 B01 AT Peyton Smith
+CU  325,B02,11320,Microeconomics,AT,12,Riley,Anderson,CU  325 B02 AT Riley Anderson
+CU  145,B01,11315,Cognitive Psychology,AF,12,Alex,Davis,CU  145 B01 AF Alex Davis
+FP  367,B01,11532,Renewable Energy,AU,18,Jordan,Moore,FP  367 B01 AU Jordan Moore
+FP  367,B02,11533,Digital Marketing,AU,11,Taylor,Moore,FP  367 B02 AU Taylor Moore
+FP  161,B01,11512,Artificial Intelligence,AM,20,Taylor,Smith,FP  161 B01 AM Taylor Smith
+FP  161,B02,11513,Global History,AM,22,Jordan,Smith,FP  161 B02 AM Jordan Smith
+FP  361,B01,11524,Modern Physics,AO,18,Reese,Smith,FP  361 B01 AO Reese Smith
+FP  361,B02,11525,Data Analytics,AO,11,Alex,Davis,FP  361 B02 AO Alex Davis
+BN 300,H01,11117,Microeconomics,IE,17,Riley,Wilson,BN 300 H01 IE Riley Wilson
+BN 300,H02,11118,Digital Marketing,IE,18,Reese,Anderson,BN 300 H02 IE Reese Anderson
+ML 111,H01,11813,World Geography,IG,19,Riley,Thomas,ML 111 H01 IG Riley Thomas
+ML 111,H02,12912,Cognitive Psychology,IG,13,Morgan,Thomas,ML 111 H02 IG Morgan Thomas
+ML 115,H01,11817,Artificial Intelligence,IB,18,Alex,Smith,ML 115 H01 IB Alex Smith
+ML 115,H01,11817,Statistics and Probability,IB,18,Casey,Anderson,ML 115 H01 IB Casey Anderson
+ML 115,H02,11818,Cybersecurity Fundamentals,IB,14,Casey,Brown,ML 115 H02 IB Casey Brown
+ML 115,H02,11818,Statistics and Probability,IB,14,Alex,Thomas,ML 115 H02 IB Alex Thomas
+BN 105,H03,11113,Cybersecurity Fundamentals,IC,11,Jordan,Wilson,BN 105 H03 IC Jordan Wilson
+BN 300,H03,11119,Cybersecurity Fundamentals,IE,10,Casey,Johnson,BN 300 H03 IE Casey Johnson
+PN 131,H02,11947,Health Science,I7,22,Quinn,Taylor,PN 131 H02 I7 Quinn Taylor
+PW 100,H01,11985,Global History,I9,16,Casey,Smith,PW 100 H01 I9 Casey Smith
+PW 100,H02,11986,Advanced Mathematics,I9,15,Morgan,Moore,PW 100 H02 I9 Morgan Moore
+PW 100,H03,11987,Environmental Studies,I9,16,Riley,Davis,PW 100 H03 I9 Riley Davis
+PW 100,H04,11988,Foundations of Biology,I9,18,Reese,Brown,PW 100 H04 I9 Reese Brown
+RT 160,H01,12056,Critical Philosophy,HC,46,Jamie,Davis,RT 160 H01 HC Jamie Davis
+AB 322,H01,11012,Critical Philosophy,I3,11,Quinn,Davis,AB 322 H01 I3 Quinn Davis
+AB 322,H02,11013,Art History,I3,10,Riley,Davis,AB 322 H02 I3 Riley Davis
+PN 131,H03,11948,Advanced Mathematics,I7,16,Quinn,Wilson,PN 131 H03 I7 Quinn Wilson
+PN 131,H04,11949,Critical Philosophy,I7,20,Peyton,Jackson,PN 131 H04 I7 Peyton Jackson
+PN 327,H04,11969,Renewable Energy,I8,16,Peyton,Johnson,PN 327 H04 I8 Peyton Johnson
+PW 100,H01,11985,Introduction to Literature,I9,16,Alex,Moore,PW 100 H01 I9 Alex Moore
+PW 100,H02,11986,Foundations of Biology,I9,15,Alex,Johnson,PW 100 H02 I9 Alex Johnson
+PW 100,H03,11987,Microeconomics,I9,16,Taylor,Moore,PW 100 H03 I9 Taylor Moore
+PW 100,H04,11988,Environmental Studies,I9,18,Jordan,Wilson,PW 100 H04 I9 Jordan Wilson
+BN 105,H01,11111,Environmental Studies,IC,16,Riley,Moore,BN 105 H01 IC Riley Moore
+BN 105,H02,11112,Cognitive Psychology,IC,15,Riley,Smith,BN 105 H02 IC Riley Smith
+CP 355,R37,11213,Health Science,UB,5,Jamie,Moore,CP 355 R37 UB Jamie Moore
+ML 115,H01,11817,Digital Marketing,IB,18,Riley,Anderson,ML 115 H01 IB Riley Anderson
+ML 115,H01,11817,Cybersecurity Fundamentals,IB,18,Jamie,Wilson,ML 115 H01 IB Jamie Wilson
+ML 115,H02,11818,Data Analytics,IB,14,Reese,Taylor,ML 115 H02 IB Reese Taylor
+ML 115,H02,11818,Environmental Studies,IB,14,Jamie,Johnson,ML 115 H02 IB Jamie Johnson
+SN 100,H01,12064,Microeconomics,ID,18,Casey,Davis,SN 100 H01 ID Casey Davis
+SN 100,H01,12064,Organic Chemistry,ID,18,Quinn,Thomas,SN 100 H01 ID Quinn Thomas
+SN 100,H02,12065,Microeconomics,ID,23,Riley,Johnson,SN 100 H02 ID Riley Johnson
+SN 100,H02,12065,Art History,ID,23,Jamie,Taylor,SN 100 H02 ID Jamie Taylor
+AB 329,H01,11018,Cultural Sociology,I6,13,Reese,Anderson,AB 329 H01 I6 Reese Anderson
+AB 329,H02,11019,Organic Chemistry,I6,8,Quinn,Davis,AB 329 H02 I6 Quinn Davis
+PH 145,H05,11918,Cognitive Psychology,18,24,Morgan,Brown,PH 145 H05 18 Morgan Brown
+ML 111,H01,11813,Programming Basics,IG,19,Quinn,Anderson,ML 111 H01 IG Quinn Anderson
+ML 111,H02,12912,Critical Philosophy,IG,13,Morgan,Brown,ML 111 H02 IG Morgan Brown
+BN 300,H01,11117,Digital Marketing,IE,17,Riley,Taylor,BN 300 H01 IE Riley Taylor
+BN 300,H02,11118,Programming Basics,IE,18,Alex,Smith,BN 300 H02 IE Alex Smith
+CA 104,H01,11130,Modern Physics,2D,31,Morgan,Taylor,CA 104 H01 2D Morgan Taylor
+CA 104,R37,11132,Data Analytics,2D,1,Alex,Davis,CA 104 R37 2D Alex Davis
+AB 322,H01,11012,World Geography,I3,11,Peyton,Anderson,AB 322 H01 I3 Peyton Anderson
+AB 322,H02,11013,Environmental Studies,I3,10,Reese,Brown,AB 322 H02 I3 Reese Brown
+ML 111,H01,11813,Cognitive Psychology,IG,19,Jamie,Jackson,ML 111 H01 IG Jamie Jackson
+ML 111,H02,12912,Cultural Sociology,IG,13,Reese,Thomas,ML 111 H02 IG Reese Thomas
+BN 105,H03,11113,Digital Marketing,IC,11,Reese,Wilson,BN 105 H03 IC Reese Wilson
+BN 105,H03,11113,Advanced Mathematics,IC,11,Reese,Wilson,BN 105 H03 IC Reese Wilson
+BN 300,H03,11119,Art History,IE,10,Quinn,Taylor,BN 300 H03 IE Quinn Taylor
+AB 122,H01,11007,Statistics and Probability,I1,15,Casey,Anderson,AB 122 H01 I1 Casey Anderson
+AB 122,H02,11008,Organic Chemistry,I1,20,Quinn,Moore,AB 122 H02 I1 Quinn Moore
+PN 327,H03,11968,Creative Writing,I8,20,Alex,Thomas,PN 327 H03 I8 Alex Thomas
+PN 327,H04,11969,Art History,I8,16,Jordan,Thomas,PN 327 H04 I8 Jordan Thomas
+PN 131,H03,11948,Microeconomics,I7,16,Morgan,Smith,PN 131 H03 I7 Morgan Smith
+PN 131,H04,11949,Modern Physics,I7,20,Taylor,Taylor,PN 131 H04 I7 Taylor Taylor
+PW 100,H01,11985,Artificial Intelligence,I9,16,Taylor,Davis,PW 100 H01 I9 Taylor Davis
+PW 100,H02,11986,Digital Marketing,I9,15,Taylor,Thomas,PW 100 H02 I9 Taylor Thomas
+PW 100,H03,11987,Introduction to Literature,I9,16,Alex,Wilson,PW 100 H03 I9 Alex Wilson
+RA 117,H01,12039,Critical Philosophy,IA,10,Taylor,Moore,RA 117 H01 IA Taylor Moore
+RA 117,H02,12040,Foundations of Biology,IA,10,Reese,Moore,RA 117 H02 IA Reese Moore
+PN 327,H02,11967,World Geography,I8,21,Casey,Anderson,PN 327 H02 I8 Casey Anderson
+SN 305,H01,12068,Renewable Energy,IF,24,Reese,Jackson,SN 305 H01 IF Reese Jackson
+SN 305,H02,12833,Programming Basics,IF,25,Casey,Brown,SN 305 H02 IF Casey Brown
