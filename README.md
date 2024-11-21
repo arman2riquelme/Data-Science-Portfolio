@@ -9,7 +9,7 @@ Feel free to navigate through the folders to explore the projects. Each section 
 
 ## Repository Structure
 
-### 1. **Big-Data-Management-Systems**
+### 1. **Big-Data-Management-Systems** Big-Data-Management-Systems
    Projects and exercises related to distributed computing and large-scale data management, with a focus on Spark and SQL.
 
 ### 2. **Foundations**
