@@ -16,10 +16,10 @@ Below is an overview of the main sections in this portfolio. Click on any sectio
 ### 2. **[Foundations](./Foundations/)**
    Foundational projects that cover data cleaning, wrangling, and basic exploratory data analysis.
 
-### 3. **[Machine-Learning](./Machine-Learning/)** 
+### 3. **[Machine Learning](./Machine-Learning/)** 
    Machine learning projects, including both supervised and unsupervised learning techniques, such as clustering, classification, and dimensionality reduction.
 
-### 4. **[Problem-Solving](./Problem-Solving/)** 
+### 4. **[Problem Solving](./Problem-Solving/)** 
    Real-world challenges solved using tools like Python and Power Query. This section focuses on creative and practical solutions to specific data problems.
 
 ### 5. **[Statistics](./Statistics/)** 
