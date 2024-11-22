@@ -1,3 +1,25 @@
+## **Problem 3: Visualizing Failure Rates Across Categories**
+
+**Context**
+The goal of this project was to analyze and visualize the failure rates of students across various categories to identify common patterns. While numerical data provided insights, the challenge was to create a meaningful visualization that could help decision-makers interpret the information intuitively.
+
+## Dataset Preparation
+The dataset was enriched with indicators, metrics, and submetrics to enable deeper analysis. These were grouped into three primary categories:
+
+**Demographic Insights: Focused on residency, age, gender, and similar factors.**
+**Educational Engagement: Examined course delivery modes, semester-based trends, and program schedules.**
+**Background and Support: Analyzed external support mechanisms, funding sources, and first-generation student status.**
+Key metrics included:
+
+Mean failure rates for each metric within a category.
+Overall mean failure rates for each category:
+**Demographic Insights: 2.58**
+**Educational Engagement: 2.06**
+**Background and Support: 2.60**
+
+## **The Challenge**
+I was requested a graphical representation of the data, but the exact requirements were unclear. The initial request referenced a "bar chart with shading," but upon discussion, it became evident that the graph needed to incorporate more dimensions and provide a broader understanding of why students were failing.
+
 ## **Solution: Iterative Development of the Graph with Python in a Jupyter Notebook**
 The process involved multiple iterations to refine the visualization:
 
