@@ -1,6 +1,7 @@
 ## **Problem 3: Visualizing Failure Rates Across Categories**
 
 **Context**
+
 The goal of this project was to analyze and visualize the failure rates of students across various categories to identify common patterns. While numerical data provided insights, the challenge was to create a meaningful visualization that could help decision-makers interpret the information intuitively.
 
 ## Dataset Preparation
